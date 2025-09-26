@@ -1,0 +1,10 @@
+C:\Users\fcoda\Documents\MCUXpressoIDE_25.6.136\workspace\Practica1_NuevaCapa\drivers/fsl_enet.h:1187:20:ENET_ActiveRead	16	static
+C:\Users\fcoda\Documents\MCUXpressoIDE_25.6.136\workspace\Practica1_NuevaCapa\phy/fsl_phy.h:147:24:PHY_Init	16	static
+C:\Users\fcoda\Documents\MCUXpressoIDE_25.6.136\workspace\Practica1_NuevaCapa\phy/fsl_phy.h:191:24:PHY_GetAutoNegotiationStatus	16	static
+C:\Users\fcoda\Documents\MCUXpressoIDE_25.6.136\workspace\Practica1_NuevaCapa\phy/fsl_phy.h:206:24:PHY_GetLinkStatus	16	static
+C:\Users\fcoda\Documents\MCUXpressoIDE_25.6.136\workspace\Practica1_NuevaCapa\phy/fsl_phy.h:223:24:PHY_GetLinkSpeedDuplex	24	static
+../source/Functions.c:45:6:send	64	static
+../source/Functions.c:104:10:crc32	32	static
+../source/Functions.c:121:6:encrypt_payload	216	static
+../source/Functions.c:137:6:init	144	static
+../source/Functions.c:224:6:recv	56	static
